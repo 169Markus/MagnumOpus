@@ -1,2 +1,1 @@
-# MagnumOpus
-My ultimate game
+# Todo
